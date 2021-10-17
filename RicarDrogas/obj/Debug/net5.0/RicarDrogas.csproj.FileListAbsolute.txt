@@ -1,0 +1,16 @@
+E:\Users\felip\OneDrive\Documentos\PoO2\RicarDrogas\obj\Debug\net5.0\RicarDrogas.csproj.AssemblyReference.cache
+E:\Users\felip\OneDrive\Documentos\PoO2\RicarDrogas\obj\Debug\net5.0\RicarDrogas.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\felip\OneDrive\Documentos\PoO2\RicarDrogas\obj\Debug\net5.0\RicarDrogas.AssemblyInfoInputs.cache
+E:\Users\felip\OneDrive\Documentos\PoO2\RicarDrogas\obj\Debug\net5.0\RicarDrogas.AssemblyInfo.cs
+E:\Users\felip\OneDrive\Documentos\PoO2\RicarDrogas\obj\Debug\net5.0\RicarDrogas.csproj.CoreCompileInputs.cache
+E:\Users\felip\OneDrive\Documentos\PoO2\RicarDrogas\bin\Debug\net5.0\RicarDrogas.exe
+E:\Users\felip\OneDrive\Documentos\PoO2\RicarDrogas\bin\Debug\net5.0\RicarDrogas.deps.json
+E:\Users\felip\OneDrive\Documentos\PoO2\RicarDrogas\bin\Debug\net5.0\RicarDrogas.runtimeconfig.json
+E:\Users\felip\OneDrive\Documentos\PoO2\RicarDrogas\bin\Debug\net5.0\RicarDrogas.runtimeconfig.dev.json
+E:\Users\felip\OneDrive\Documentos\PoO2\RicarDrogas\bin\Debug\net5.0\RicarDrogas.dll
+E:\Users\felip\OneDrive\Documentos\PoO2\RicarDrogas\bin\Debug\net5.0\ref\RicarDrogas.dll
+E:\Users\felip\OneDrive\Documentos\PoO2\RicarDrogas\bin\Debug\net5.0\RicarDrogas.pdb
+E:\Users\felip\OneDrive\Documentos\PoO2\RicarDrogas\obj\Debug\net5.0\RicarDrogas.dll
+E:\Users\felip\OneDrive\Documentos\PoO2\RicarDrogas\obj\Debug\net5.0\ref\RicarDrogas.dll
+E:\Users\felip\OneDrive\Documentos\PoO2\RicarDrogas\obj\Debug\net5.0\RicarDrogas.pdb
+E:\Users\felip\OneDrive\Documentos\PoO2\RicarDrogas\obj\Debug\net5.0\RicarDrogas.genruntimeconfig.cache
