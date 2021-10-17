@@ -6,3 +6,10 @@ Essas drogarias possuem um estoque de loja (Estoque) e contam com o abasteciment
 Durante uma operação de venda, caso um determinado produto não exista em loja (Estoque), o sistema irá buscá-lo no estoque geral (Armazem) e efetivar a referida venda.
 Caso, o produto não exista nem em Estoque, nem em Armazem, a venda não é efetivada.
 
+Participantes:
+
+Davi Gomes Leardine Pontes
+Fabiano Vilaronga Rabelo 
+Felipe da Silva Carvalho
+Natan Risso Epifanio
+Vinicius Viola Dias
